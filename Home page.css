@@ -81,6 +81,7 @@ header{
   z-index: 100;
 }
 .persons a{
+  color: black;
   position: relative;
   font-size: 1.1em;
   backdrop-filter: blur;
